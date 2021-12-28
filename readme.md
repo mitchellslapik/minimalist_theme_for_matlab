@@ -1,4 +1,4 @@
-# minimalist matlab theme (black)
+# minimalist matlab theme
 
 install use matlab schemer (available here: https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer)
 
