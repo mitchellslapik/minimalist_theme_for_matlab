@@ -1,6 +1,6 @@
 # minimalist theme for matlab
 
-curated color scheme, fonts and settings for more pleasing matlab experience. 
+curated color scheme, fonts and settings for minimalist matlab experience. 
 
 install using matlab schemer (available here: https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer)
 
