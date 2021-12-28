@@ -4,4 +4,4 @@ install use matlab schemer (available here: https://www.mathworks.com/matlabcent
 
 example image:
 
-<img width="1438" alt="Screen Shot 2021-12-28 at 3 06 45 AM" src="https://user-images.githubusercontent.com/92355713/147549883-d2d06b44-ad88-4720-8859-aad09c5a4ab6.png">
+<img width="1100" alt="example image" src="https://user-images.githubusercontent.com/92355713/147558320-1185dcad-8a49-4732-8518-61b0c210e257.png">
