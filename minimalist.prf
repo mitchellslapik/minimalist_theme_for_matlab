@@ -1,0 +1,33 @@
+# minimalist - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.10.0.1710957 (R2021a) Update 4
+# Tue Dec 28 03:04:47 CST 2021
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Bfalse
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-5657167
+ColorsBackground=C-14342875
+Colors_M_Keywords=C-12473507
+Colors_M_Comments=C-9605779
+Colors_M_Strings=C-12414266
+Colors_M_UnterminatedStrings=C-13983336
+Colors_M_SystemCommands=C-2935166
+Colors_M_Errors=C-794949
+Colors_HTML_HTMLLinks=C-8356422
+Colors_M_Warnings=C-4880128
+ColorsMLintAutoFixBackground=C-16304574
+Editor.VariableHighlighting.Color=C-13816531
+Editor.NonlocalVariableHighlighting.TextColor=C-8021760
+Editorhighlight-lines=C-13158601
+Editorhighlight-caret-row-boolean-color=C-13948117
+EditorRightTextLimitLineColor=C-5723992
+Color_CmdWinWarnings=C-1599135
+Color_CmdWinErrors=C-4901318
